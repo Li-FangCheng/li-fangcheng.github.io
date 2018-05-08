@@ -14,4 +14,5 @@ This website is adapted from [Indigo Minimalist Jekyll Template](http://sergioko
 - [x] Reduce the header shown except for home page
 - [x] Add self-defined colors
 - [x] Update icons
+- [x] Update color hierarchies
 - [ ] Deisng a grid layout for the project page
