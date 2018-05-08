@@ -23,12 +23,12 @@ September 2011 -- July 2013, Taiwan (R.O.C.)
 * **Vladimir Feinberg** (class of 2017)\\
 [Large Linear Multi-Output Gaussian Process Learning](https://arxiv.org/abs/1705.10813){:target="_blank"}\\
 Advisors: Prof. Kai Li (CS) and Prof. Barbara Engelhardt (CS)\\
-Computer Science Department Independent Work, 2016 Fall -- 2017 Spring
+Computer Science Department Independent Work, Fall 2016 -- Spring 2017
 
 * **Haley Beck** (class of 2016)\\
 Evaluation of Bayesian Changepoint Detection of Sepsis in Hospital Patient Monitoring\\
 Advisor: Prof. Barbara Engelhardt (CS)\\
-Computer Science Department Independent Work, 2015 Fall
+Computer Science Department Independent Work, Fall 2015
 
 ## Awards and Honors
 * **Student Travel Grant**, Princeton University School of Engineering and Applied Science, December 2017
