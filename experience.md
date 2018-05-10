@@ -23,7 +23,7 @@ September 2011 -- July 2013, Taiwan (R.O.C.)
 
 ### [Mentoring]
 * **Vladimir Feinberg** (class of 2017)\\
-[Large Linear Multi-Output Gaussian Process Learning](https://arxiv.org/abs/1705.10813){:target="_blank"}\\
+[Large Linear Multi-Output Gaussian Process Learning](https://arxiv.org/abs/1705.10813){:target="_blank"} [[code](https://github.com/vlad17/runlmc){:target="_blank"}]\\
 Advisors: Prof. Kai Li (CS) and Prof. Barbara Engelhardt (CS)\\
 Computer Science Department Independent Work, Fall 2016 -- Spring 2017
 
