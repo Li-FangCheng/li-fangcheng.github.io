@@ -9,8 +9,14 @@
             display: inline-block
 
         > .item > .link
+            font-weight: 350
+
+            @media #{$mobile}
+                font-weight: bold
+
+            @media #{$mobile}
+                font-weight: bold
             display: inline-block
-            font-weight: 30
             font-size: 1.4rem
             padding: 20px 10px
             text-decoration: none
@@ -24,7 +30,6 @@
         padding: 0 13px 0
 
         > .item > .link
-            font-size: 1.4rem
             padding: 20px 10px
             &:hover
                 color: $navhover
