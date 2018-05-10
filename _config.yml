@@ -51,7 +51,7 @@ github: Li-FangCheng
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: lifangc@princeton.edu
+email: lifangc.cheng@gmail.com
 
 authors:
     lifangcheng:
@@ -77,13 +77,13 @@ resources: true
 publications: true
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
 related: false

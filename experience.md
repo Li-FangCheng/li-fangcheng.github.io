@@ -1,6 +1,8 @@
 ---
 title: Experience
 layout: page
+headerBanner: true
+banner-image: /assets/images/banner/banner-experience.jpg
 ---
 
 ## Internship

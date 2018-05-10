@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Projects
+headerBanner: true
+banner-image: /assets/images/banner/banner-projects.jpg
 ---
 <!-- <section class="list">
     {% for post in site.posts %}
@@ -14,3 +16,14 @@ title: Projects
         {% endif %}
     {% endfor %}
 </section> -->
+<ul class="new-projects new-clearfix">
+    {% for post in site.posts %}
+        {% if post.projects %}
+            {% if post.main %}
+                {% if post.publish %}
+                    {% include grid.html %}
+                {% endif %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</ul>

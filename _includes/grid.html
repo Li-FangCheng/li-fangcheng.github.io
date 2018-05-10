@@ -1,0 +1,18 @@
+<li>
+    <div class="new-project">
+        <a class="cover" href="{{ post.url }}">
+            <div class="project-details">
+                <span>
+                    {{ post.title }}
+                </span>
+            </div>
+        </a>
+        <img class="thumb" src="
+            {% if post.headerIcon %}
+                {{ site.url }}/{{ post.icon-image }}
+            {% else %}
+                {{ site.url }}/assets/images/projects/background_bw.jpg
+            {% endif %}" />
+        <div class="aspect-two-one"></div>
+    </div>
+</li>
