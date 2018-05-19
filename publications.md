@@ -7,7 +7,7 @@ banner-image: /assets/images/banner/banner-publications.jpg
 
 ## Preprints and Unpublished Work
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
-**<u>Li-Fang Cheng</u>**, Gregory Darnell, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt\\
+**<u>Li-Fang Cheng</u>**, Gregory Darnell, Bianca Dumitrascu, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt\\
 [arXiv:1703.09112](https://arxiv.org/abs/1703.09112){:target="_blank"}. *Manuscript under review.* [[code](https://github.com/bee-hive/MedGP){:target="_blank"}]
 * **Large Linear Multi-Output Gaussian Process Learning**\\
 Vladimir Feinberg, **<u>Li-Fang Cheng</u>**, Kai Li and Barbara Engelhardt\\
