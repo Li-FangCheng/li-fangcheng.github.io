@@ -15,5 +15,5 @@ I reference the following awesome resources to personalize this website:
 * Blog posts written by Arti Annaswamy:
     * [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1){:target="_blank"}
     * [Build a Blog with Github - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2){:target="_blank"}
-* [Free icon resources](https://www.iconfinder.com/icons/1390302/github_icon#size=256){:target="_blank"}
+* [Icon finder](https://www.iconfinder.com){:target="_blank"}
 * [Grid porfolio design template](https://github.com/JonathanMatthey/jonathanmatthey.com){:target="_blank"}
