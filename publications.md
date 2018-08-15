@@ -6,12 +6,15 @@ banner-image: /assets/images/banner/banner-publications.jpg
 ---
 
 ## Preprints and Unpublished Work
+* **An Optimal Policy for Patient Laboratory Tests in Intensive Care Units**\\
+**<u>Li-Fang Cheng</u>**, Niranjani Prasad and Barbara Engelhardt\\
+[arXiv:1808.04679](https://arxiv.org/abs/1808.04679){:target="_blank"}. (Equal contribution with Niranjani Prasad.) *Manuscript under review.*
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
 **<u>Li-Fang Cheng</u>**, Gregory Darnell, Bianca Dumitrascu, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt\\
 [arXiv:1703.09112](https://arxiv.org/abs/1703.09112){:target="_blank"}. *Manuscript under review.* [[code](https://github.com/bee-hive/MedGP){:target="_blank"}]
 * **Large Linear Multi-Output Gaussian Process Learning**\\
 Vladimir Feinberg, **<u>Li-Fang Cheng</u>**, Kai Li and Barbara Engelhardt\\
-[arXiv:1705.10813](https://arxiv.org/abs/1705.10813){:target="_blank"}. [[code](https://github.com/vlad17/runlmc){:target="_blank"}]
+[arXiv:1705.10813](https://arxiv.org/abs/1705.10813){:target="_blank"}. *Manuscript under review.* [[code](https://github.com/vlad17/runlmc){:target="_blank"}]
 
 ## Journals and Conferences
 * **Bayesian Nonparametric Discovery of Isoforms and Individual Specific Quantification**\\
