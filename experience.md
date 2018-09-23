@@ -6,7 +6,7 @@ banner-image: /assets/images/banner/banner-experience.jpg
 ---
 
 ## Internship
-* **Data Science Research Intern**, [Evidation Health Inc.](https://evidation.com/){:target="_blank"}\\
+* **Data Scientist Intern**, [Evidation Health Inc.](https://evidation.com/){:target="_blank"}\\
 June 2017 -- September 2017, Santa Barbara, CA
 
 ## Academic
