@@ -9,7 +9,7 @@ banner-image: /assets/images/banner/banner-experience.jpg
 * **Data Scientist Intern**, [Evidation Health Inc.](https://evidation.com/){:target="_blank"}\\
 June 2017 -- September 2017, Santa Barbara, CA
 
-## Academic
+## Academic Activities
 ### [Research]
 * **Graduate Researcher**, Electrical Engineering Department, Princeton University\\
 September 2013 -- present, Princeton, NJ
