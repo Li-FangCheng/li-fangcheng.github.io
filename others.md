@@ -11,7 +11,7 @@ banner-image: /assets/images/banner/banner-others.jpg
 
 ## Useful Resources
 ### Website
-I reference the following awesome resources to personalize this website:
+I referenced the following awesome resources to personalize this website:
 * Blog posts written by Arti Annaswamy:
     * [Build a Blog with Github - Part 1](http://artiannaswamy.com/build-a-github-blog-part-1){:target="_blank"}
     * [Build a Blog with Github - Part 2](http://artiannaswamy.com/build-a-github-blog-part-2){:target="_blank"}
