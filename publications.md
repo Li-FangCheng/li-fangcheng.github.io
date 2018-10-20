@@ -32,8 +32,8 @@ Niranjani Prasad, **<u>Li-Fang Cheng</u>**, Corey Chivers, Michael Draugelis, an
 **<u>Li-Fang Cheng</u>**, David Stück, Tom Quisel, and Luca Foschini, in *Machine Learning for Health Workshop, Neural Information Processing Systems (NIPS), 2017*.
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
 **<u>Li-Fang Cheng</u>**, Gregory Darnell, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt, in *Machine Learning for Health Workshop, Neural Information Processing Systems (NIPS), 2016*.
-* **iDISQ: Isoform Discovery and Individual-Specific Quantification from RNA-seq Data**\\
-Derek Aguiar, **<u>Li-Fang Cheng</u>**, Fantine Mordelet, Bianca Dumitrascu and Barbara Engelhardt, in *Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2016*.
+* **BIISQ: Bayesian nonparametric discovery of Isoforms and Individual Specific Quantification**\\
+Derek Aguiar, **<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Fantine Mordelet and Barbara Engelhardt, in *Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2016*.
 * **A Temporal-Difference Approach with Unsupervised Data Imputation for Early Sepsis Prediction**\\
 **<u>Li-Fang Cheng</u>**, Michael Draugelis, Kai Li and Barbara Engelhardt, in *Machine Learning for Clinical Data Analysis, Healthcare and Genomics Workshop, Neural Information Processing Systems
 (NIPS), 2014*.
