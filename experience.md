@@ -5,17 +5,31 @@ headerBanner: true
 banner-image: /assets/images/banner/banner-experience.jpg
 ---
 
-## Internship
+* **Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
+March 2019 -- Present, South San Francisco, CA
+
+* **Graduate Student Research Assistant**, Electrical Engineering Department, Princeton University\\
+September 2013 -- Janurary 2019, Princeton, NJ
+
 * **Data Scientist Intern**, [Evidation Health Inc.](https://evidation.com/){:target="_blank"}\\
 June 2017 -- September 2017, Santa Barbara, CA
 
-## Academic Activities
-### [Research]
-* **Graduate Researcher**, Electrical Engineering Department, Princeton University\\
-September 2013 -- present, Princeton, NJ
-
 * **Graduate Researcher**, Graduate Institute of Electronics Engineering, National Taiwan University\\
 September 2011 -- July 2013, Taiwan (R.O.C.)
+
+## Academic Activities
+### [Education]
+* **Princeton University**\\
+Doctor of Philosophy (PhD) in Statistics and Machine Learning\\
+September 2013 -- Janurary 2019, Princeton, NJ
+
+* **National Taiwan University (NTU)**
+Master of Science in Electronics Engineering\\
+September 2011 -- July 2013, Taiwan (R.O.C.)
+
+* **National Taiwan University (NTU)**
+Bachelor of Science in Electrical Engineering\\
+September 2007 -- June 2011, Taiwan (R.O.C.)
 
 ### [Teaching]
 * **Teaching Assistant**, COS 435: Information Retrieval, Discovery, and Delivery, Princeton University, Spring 2015

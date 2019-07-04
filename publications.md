@@ -6,6 +6,9 @@ banner-image: /assets/images/banner/banner-publications.jpg
 ---
 
 ## Preprints and Unpublished Work
+* **Patient-Specific Effects of Medication Using Latent Force Models with Gaussian Processes**\\
+**<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Michael Zhang, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt\\
+[arXiv:1906.00226](https://arxiv.org/abs/1906.00226){:target="_blank"}. *Manuscript under review.*
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
 **<u>Li-Fang Cheng</u>**, Gregory Darnell, Bianca Dumitrascu, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt\\
 [arXiv:1703.09112](https://arxiv.org/abs/1703.09112){:target="_blank"}. *Manuscript under review.* [[code](https://github.com/bee-hive/MedGP){:target="_blank"}]

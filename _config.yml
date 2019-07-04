@@ -1,6 +1,6 @@
 # main text of home
 name: Li-Fang Cheng
-bio: PhD Candidate at Princeton University
+bio: Data Scientist, Verily Life Sciences
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -51,12 +51,12 @@ github: Li-FangCheng
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: lifangc@princeton.edu
+email: lifangc.cheng@gmail.com
 
 authors:
     lifangcheng:
         name: Li-Fang Cheng
-        bio: PhD candidate at Princeton University
+        bio: Data Scientist, Verily Life Sciences
         external-image: false
         picture: assets/images/profile.jpg
         twitter: 
