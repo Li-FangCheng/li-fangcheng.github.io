@@ -4,12 +4,6 @@ layout: page
 headerBanner: true
 banner-image: /assets/images/banner/banner-publications.jpg
 ---
-
-## Preprints and Unpublished Work
-* **Large Linear Multi-Output Gaussian Process Learning**\\
-Vladimir Feinberg, **<u>Li-Fang Cheng</u>**, Kai Li and Barbara Engelhardt\\
-[arXiv:1705.10813](https://arxiv.org/abs/1705.10813){:target="_blank"}. *Manuscript under review.* [[code](https://github.com/vlad17/runlmc){:target="_blank"}]
-
 ## Journals
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
 **<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Gregory Darnell, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt in *BMC Medical Informatics and Decision Making, 2020*. [[paper link](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1069-4){:target="_blank"}][[code](https://github.com/bee-hive/MedGP){:target="_blank"}]
@@ -42,3 +36,8 @@ Derek Aguiar, **<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Fantine Mordelet and 
 * **A Temporal-Difference Approach with Unsupervised Data Imputation for Early Sepsis Prediction**\\
 **<u>Li-Fang Cheng</u>**, Michael Draugelis, Kai Li and Barbara Engelhardt, in *Machine Learning for Clinical Data Analysis, Healthcare and Genomics Workshop, Neural Information Processing Systems
 (NIPS), 2014*.
+
+## Preprints and Unpublished Work
+* **Large Linear Multi-Output Gaussian Process Learning**\\
+Vladimir Feinberg, **<u>Li-Fang Cheng</u>**, Kai Li and Barbara Engelhardt\\
+[arXiv:1705.10813](https://arxiv.org/abs/1705.10813){:target="_blank"}. *Manuscript under review.* [[code](https://github.com/vlad17/runlmc){:target="_blank"}]
