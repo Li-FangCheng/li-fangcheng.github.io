@@ -226,7 +226,6 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.11.3)
     multi_json (1.13.1)
-    multipart-post (2.0.0)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     octokit (4.25.1)
@@ -295,4 +294,4 @@ DEPENDENCIES
   jekyll-admin
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
