@@ -5,16 +5,19 @@ headerBanner: true
 banner-image: /assets/images/banner/banner-experience.jpg
 ---
 
-**Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
-March 2019 -- Present, South San Francisco, CA
+* **Senior Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
+June 2021 -- Present, South San Francisco, CA\\
+Supporting the development of [Zio® Watch](https://verily.com/blog/fda-green-lights-irhythm-verily-zio-watch-and-zeus-system/){:target="_blank"}
+  * **Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
+March 2019 -- June 2021, South San Francisco, CA
 
-**Graduate Student Research Assistant**, Electrical Engineering Department, Princeton University\\
+* **Graduate Student Research Assistant**, Electrical Engineering Department, Princeton University\\
 September 2013 -- Janurary 2019, Princeton, NJ
 
-**Data Scientist Intern**, [Evidation Health Inc.](https://evidation.com/){:target="_blank"}\\
+* **Data Scientist Intern**, [Evidation Health Inc.](https://evidation.com/){:target="_blank"}\\
 June 2017 -- September 2017, Santa Barbara, CA
 
-**Graduate Student Research Assistant**, Graduate Institute of Electronics Engineering, National Taiwan University\\
+* **Graduate Student Research Assistant**, Graduate Institute of Electronics Engineering, National Taiwan University\\
 September 2011 -- July 2013, Taiwan (R.O.C.)
 
 ## Education
