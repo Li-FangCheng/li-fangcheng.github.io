@@ -5,8 +5,11 @@ headerBanner: true
 banner-image: /assets/images/banner/banner-publications.jpg
 ---
 ## Journals
+* **Validation of a Deep Learning Algorithm for Continuous, Real‐Time Detection of Atrial Fibrillation Using a Wrist‐Worn Device in an Ambulatory Environment**\\
+Ming‐Zher Poh, Anthony J. Battisti, **<u>Li-Fang Cheng</u>**, Janice Lin, Anil Patwardhan, Ganesh S. Venkataraman, Charles A. Athill, Nimesh S. Patel, Chinmay P. Patel, Christian E. Machado, Jeffrey T. Ellis, Lori A. Crosson, Yuriko Tamura, R. Scooter Plowman, Mintu P. Turakhia and Hamid Ghanbari, in *Journal of the American Heart Association, 2023*.[[paper link](https://doi.org/10.1161/JAHA.123.030543){:target="_blank"}]
+
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
-**<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Gregory Darnell, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt in *BMC Medical Informatics and Decision Making, 2020*. [[paper link](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1069-4){:target="_blank"}][[code](https://github.com/bee-hive/MedGP){:target="_blank"}]
+**<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Gregory Darnell, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt, in *BMC Medical Informatics and Decision Making, 2020*. [[paper link](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1069-4){:target="_blank"}][[code](https://github.com/bee-hive/MedGP){:target="_blank"}]
 
 * **Bayesian Nonparametric Discovery of Isoforms and Individual Specific Quantification**\\
 Derek Aguiar, **<u>Li-Fang Cheng</u>**, Bianca Dumitrascu, Fantine Mordelet, Athma Pai and Barbara Engelhardt, in *Nature Communications, 2018*. [[paper link](https://www.nature.com/articles/s41467-018-03402-w){:target="_blank"}][[code](https://github.com/bee-hive/BIISQ){:target="_blank"}]

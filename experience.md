@@ -7,7 +7,7 @@ banner-image: /assets/images/banner/banner-experience.jpg
 
 * **Senior Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
 June 2021 -- Present, South San Francisco, CA\\
-Supporting the development of [Zio® Watch](https://verily.com/blog/fda-green-lights-irhythm-verily-zio-watch-and-zeus-system/){:target="_blank"}
+Supporting the development of Verily's Study Watch applications, with a focus on monitoring Atrial Fibrillation (AFib).
   * **Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
 March 2019 -- June 2021, South San Francisco, CA
 
