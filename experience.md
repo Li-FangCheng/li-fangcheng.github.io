@@ -4,9 +4,11 @@ layout: page
 headerBanner: true
 banner-image: /assets/images/banner/banner-experience.jpg
 ---
+* **Senior Machine Learning Engineer**, Health and Wellbeing, Meta Platforms, Inc.\\
+May 2024 -- Present, Burlingame, CA
 
 * **Senior Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
-June 2021 -- Present, South San Francisco, CA\\
+June 2021 -- May 2024, South San Francisco, CA\\
 Supporting the development of Verily's Study Watch applications, with a focus on monitoring Atrial Fibrillation (AFib).
   * **Data Scientist**, [Verily Life Sciences](https://verily.com/){:target="_blank"}\\
 March 2019 -- June 2021, South San Francisco, CA

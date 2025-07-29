@@ -21,4 +21,4 @@ This website is adapted from [Indigo Minimalist Jekyll Template](http://sergioko
 - [x] Deisng a grid layout for the project page
 - [x] Add banner image class
 - [x] Update project descriptions
-- [ ] Add Google scholar information
+- [x] Add Google scholar information
