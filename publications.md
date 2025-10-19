@@ -30,6 +30,8 @@ Niranjani Prasad, **<u>Li-Fang Cheng</u>**, Corey Chivers, Michael Draugelis, an
 **<u>Li-Fang Cheng</u>**, Tung-Chien Chen, Nai-Fu Chang, and Liang-Gee Chen, in *International IEEE/EMBS Conference on Neural Engineering (NER), 2011*.
 
 ## Abstract and Posters
+* **Uncertainty-Aware PPG-2-ECG for Enhanced Cardiovascular Diagnosis using Diffusion Models**\\
+Omer Belhasin, Idan Kligvasser, George Leifman, Regev Cohen, Erin Rainaldi, **<u>Li-Fang Cheng</u>**, Nishant Verma, Paul Varghese, Ehud Rivlin, and Michael Elad, in *ICLR 2025 Workshop on Uncertainty and Hallucinations on Foundation Models*. [arXiv:2405.11566](https://arxiv.org/abs/2405.11566){:target="_blank"}.
 * **The Impact of Missing Data in User-Generated mHealth Time Series**\\
 **<u>Li-Fang Cheng</u>**, David Stück, Tom Quisel, and Luca Foschini, in *Machine Learning for Health Workshop, Neural Information Processing Systems (NIPS), 2017*.
 * **Sparse Multi-Output Gaussian Processes for Medical Time Series Prediction**\\
